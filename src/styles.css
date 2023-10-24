@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: #ddd;
+  font-family: verdana;
+  --dile-nav-background-color: #900;
+  --dile-tab-text-color: #666;
+  --dile-tab-background-color: transparent;
+  --dile-tab-selected-text-color: #396;
+  --dile-tab-selected-background-color: transparent;
+  --dile-tab-selected-line-color: #396;
+}
+h1 {
+  font-weight: 300;
+  font-size: 1rem;
+  margin: 0;
+}
+section {
+  margin: 2rem 1rem;
+}
